@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/SoftwareRasterizerPaint.dir/src/main.cpp.o CMakeFiles/SoftwareRasterizerPaint.dir/src/Canvas.cpp.o CMakeFiles/SoftwareRasterizerPaint.dir/src/Algorithms.cpp.o CMakeFiles/SoftwareRasterizerPaint.dir/src/Renderer.cpp.o -o SoftwareRasterizerPaint  -lglfw -lGLEW -lGL -lX11 -lGLU -limgui -lstb -lGL -lm -lX11 -ldl -lGL -lGLU -limgui -lstb -lm -ldl 
