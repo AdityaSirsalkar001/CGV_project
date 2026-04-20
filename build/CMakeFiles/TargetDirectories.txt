@@ -1,0 +1,3 @@
+/home/anshdeep-singh/Documents/Sem-4/CGV/project/build/CMakeFiles/SoftwareRasterizerPaint.dir
+/home/anshdeep-singh/Documents/Sem-4/CGV/project/build/CMakeFiles/edit_cache.dir
+/home/anshdeep-singh/Documents/Sem-4/CGV/project/build/CMakeFiles/rebuild_cache.dir
